@@ -41,20 +41,20 @@ Me destaco por mi **responsabilidad, liderazgo y adaptabilidad** en entornos col
 ---
 
 ### Proyectos Personales y Académicos
-🔹 **SITAP – RedCOLSI (2023)**  
+- **SITAP – RedCOLSI (2023)**  
 Aplicación para agendar citas en el área clínica.  
 **Rol:** Full Stack Developer (líder de desarrollo)  
 **Stack:** Java + Spring Boot · Vue.js · Firebase Auth · Docker · PostgreSQL  
 📍 Participación en **RedCOLSI nacional** representando a la universidad.
 
-🔹 **EcoCampus Lite**  
+- **EcoCampus Lite**  
 Aplicación sostenible para universidades basada en el **ODS 11**.  
 Desarrollada en **Flutter** con integración de APIs de sostenibilidad y movilidad.
 
-🔹 **Conversor de Divisas**  
+- **Conversor de Divisas**  
 App Flutter con soporte **multilenguaje**, **manejo offline** y **API externa** para tasas en tiempo real.
 
-🔹 **chat-ss**  
+- **chat-ss**  
 App integrada con IA para la consulta de la Escuela Sabatica de la Iglesia Adventista, carga masiva de archivos con python, manejo de flujo modelos de IA con n8n. https://chat-ss.pruebascr.online
 
 ---
