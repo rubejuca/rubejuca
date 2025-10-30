@@ -1,22 +1,22 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=👋+Hola%2C+soy+Camilo+Rubio;Ingeniero+de+Sistemas+en+formación;Desarrollador+Full+Stack+y+apasionado+por+la+tecnología;Enfocado+en+crear+soluciones+eficientes+y+sostenibles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=👋+Camilo+Rubio;Ingeniero+de+Sistemas+en+formación;Desarrollador+Full+Stack+y+apasionado+por+la+tecnología;Enfocado+en+crear+soluciones+eficientes+y+sostenibles" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mí
+### Sobre mí
 Soy **Juan Camilo Rubio Benavides**, estudiante de **Octavo semestre de Ingeniería de Sistemas** en la **Corporación Universitaria Adventista (Medellín)**.  
 Tengo experiencia en el desarrollo **Full Stack (web, móvil y backend)**, aplicando **metodologías ágiles (Scrum)** y buenas prácticas de control de versiones con **Git y GitHub**.  
 
 Me destaco por mi **responsabilidad, liderazgo y adaptabilidad** en entornos colaborativos. Busco seguir fortaleciendo mis conocimientos técnicos y contribuir a proyectos que impulsen la **innovación tecnológica y el impacto social positivo**.
 
-🌱 Actualmente:
+### Actualmente:
 - Consolidando experiencia en **Spring Boot, Vue.js y Flutter**.  
 - Desarrollando soluciones integrales con **PostgreSQL**, **Firebase Auth** y **Docker**.  
 - Perfeccionando mis habilidades en **.NET** y **arquitecturas de microservicios**.  
 
-🎯 Intereses:
+### Intereses:
 - Desarrollo de software escalable y sostenible.
 - Desarrolo Backend
 - Ingeniería de datos y arquitecturas en la nube.  
@@ -25,14 +25,14 @@ Me destaco por mi **responsabilidad, liderazgo y adaptabilidad** en entornos col
 
 ---
 
-### 🛠️ Lenguajes y Tecnologías
+### Lenguajes y Tecnologías
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,flutter,java,spring,docker,git,github,postgresql,mysql,firebase,python" />
 </p>
 
 ---
 
-### 📈 Estadísticas de GitHub
+### Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rubejuca&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubejuca&layout=compact&theme=radical&hide_border=true" height="165"/>
@@ -40,7 +40,7 @@ Me destaco por mi **responsabilidad, liderazgo y adaptabilidad** en entornos col
 
 ---
 
-### 🧩 Proyectos Personales y Académicos
+### Proyectos Personales y Académicos
 🔹 **SITAP – RedCOLSI (2023)**  
 Aplicación para agendar citas en el área clínica.  
 **Rol:** Full Stack Developer (líder de desarrollo)  
@@ -59,12 +59,12 @@ App integrada con IA para la consulta de la Escuela Sabatica de la Iglesia Adven
 
 ---
 
-### 🤖 Tecnologías y herramientas que estoy explorando
-- ⚙️ **Microservicios con Spring Boot + Docker**  
-- ☁️ **Azure & AWS** – Despliegue de apps cloud-native  
-- 🧠 **Integración de APIs de IA (OpenRouter / Databricks)**  
-- 💻 **.NET para backend empresarial**
-- 🧠 **Databricks**
+### Tecnologías y herramientas que estoy explorando
+-  **Microservicios con Spring Boot + Docker**  
+-  **Azure & AWS** – Despliegue de apps cloud-native  
+-  **Integración de APIs de IA (OpenRouter / Databricks)**  
+-  **.NET para backend empresarial**
+-  **Databricks**
 
 ---
 
@@ -74,12 +74,12 @@ App integrada con IA para la consulta de la Escuela Sabatica de la Iglesia Adven
 
 ---
 
-### 🧠 Frase que me inspira
+### Frase que me inspira
 > “El mejor código no solo resuelve un problema, **enseña cómo pensar mejor**.”
 
 ---
 
-### 📫 Conecta conmigo
+### Conecta conmigo
 <p align="center">
   <a href="mailto:rubejuca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/juan-camilo-rubio-benavides-661906233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
